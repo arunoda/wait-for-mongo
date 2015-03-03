@@ -1,6 +1,6 @@
 {
   "name": "wait-for-mongo",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Simple utility which waits until mongodb to come online",
   "dependencies": {
     "mongodb": "1.4.x"
